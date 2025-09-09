@@ -6,4 +6,7 @@ Requirements:
 - psutil (pip install psutil)
 
 Once you have the requirements installed, put the Python script where you want and create a shortcut with any name with path to:
-> cmd.exe /k python "path\to\python\script.py"
+> cmd.exe /k python "path\to\python\process_term.py"
+
+
+Go into the process_term.py and modify the list of programs in **process_names** to names of the programs that is blocking the iGPU/dGPU switch with exe
