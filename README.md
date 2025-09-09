@@ -5,5 +5,5 @@ Requirements:
 - Python3
 - psutil (pip install psutil)
 
-Once you have the requirements installed, put the Python script where you want and create a shortcut with anyname leading to:
+Once you have the requirements installed, put the Python script where you want and create a shortcut with any name with path to:
 > cmd.exe /k python "path\to\python\script.py"
