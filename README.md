@@ -1,5 +1,5 @@
 # process_term_optimus_dgpu
-Automates terminating processes that blocks switching from iGPU to dGPU in Optimus
+Automates terminating processes that blocks switching from iGPU to dGPU in Optimus for G14, realistically should work for any laptop with dependencies installed.
 
 Requirements:
 - Python3
