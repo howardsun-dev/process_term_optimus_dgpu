@@ -6,6 +6,7 @@ process_names = [
     "Veeam.EndPoint.Tray.exe",
     "YourPhoneAppProxy.exe",
     "MicrosoftSecurityApp.exe",
+    "QuickControls.exe",
 ]
 found_names = set()
 
