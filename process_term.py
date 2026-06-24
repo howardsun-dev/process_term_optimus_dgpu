@@ -7,6 +7,7 @@ process_names = [
     "YourPhoneAppProxy.exe",
     "MicrosoftSecurityApp.exe",
     "QuickControls.exe",
+    "PushBullet.exe",
 ]
 found_names = set()
 
